@@ -23,9 +23,3 @@
 - **html静态模板** [基于Amaze UI的后台管理模板](http://tpl.amazeui.org/content.html?21) 对妹子 UI表示感谢！
 - **前端插件** jquery，jquery.medis.js, bootstrap, sweetalert, datatables, html模板自带的前端插件
 
-### 关于项目的几点说明
-未完待续
-
-### 部署
-未完待续
-
